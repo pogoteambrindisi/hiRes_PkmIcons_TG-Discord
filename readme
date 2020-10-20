@@ -4,4 +4,7 @@ https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_
 
 PA:
 "monsters": {
-		"sticker_url": "https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
+"sticker_url": "https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
+
+Based on:
+https://github.com/Debaucus/PAIcons/
