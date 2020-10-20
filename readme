@@ -1,5 +1,17 @@
 20.10.2020
 
+Folder: PMSF_icons_large: (Better quality)
+https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/PMSF_icons_large/pokemon_icon_001_00.webp
+
+PA:
+"monsters": {
+"sticker_url": "https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/PMSF_icons_large/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
+
+Based on:
+https://github.com/auisgold/PkmnShuffleMap/tree/master/PMSF_icons_large
+
+-------------
+
 Folder: pa_tg_pkm_icons (LOW QUALITY)
 https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_icon_001_00.webp
 
@@ -11,12 +23,4 @@ Based on:
 https://github.com/Debaucus/PAIcons/
 
 
---------------
 
-
-PMSF_icons_large: (Better quality)
-https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/PMSF_icons_large/pokemon_icon_001_00.webp
-
-PA:
-"monsters": {
-"sticker_url": "https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/PMSF_icons_large/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
