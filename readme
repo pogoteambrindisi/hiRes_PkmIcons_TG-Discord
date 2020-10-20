@@ -1,0 +1,7 @@
+20.10.2020
+
+https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_icon_001_00.webp
+
+PA:
+"monsters": {
+		"sticker_url": "https://raw.githubusercontent.com/nepixl/pa_tg_webp/main/webp-withshiny/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
