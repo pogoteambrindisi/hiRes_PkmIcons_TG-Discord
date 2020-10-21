@@ -1,0 +1,35 @@
+HiRes Pkm Icons - With or without shiny - Support for Discord or Telegram
+
+---Telegram---
+
+Preview with shiny (Telegram): 
+https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Telegram_hiRes_withShiny_withBorder/pokemon_icon_001_00.webp
+
+Preview without shiny (Telegram): 
+https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Telegram_hiRes_noShiny_withBorder/pokemon_icon_001_00.webp
+
+Usage (Telegram with shiny): 
+"monsters": {
+"sticker_url": "https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Telegram_hiRes_withShiny_withBorder/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
+
+Usage (Telegram without shiny): 
+"monsters": {
+"sticker_url": "https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Telegram_hiRes_noShiny_withBorder/pokemon_icon_<mon_id_3>_<form_id_2>.webp",
+
+---Discord---
+
+Preview with shiny (Discord): 
+https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Discord_hiRes_withShiny_withBorder/pokemon_icon_001_00.png
+
+Preview without shiny (Discord): 
+https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Discord_hiRes_noShiny_withBorder/pokemon_icon_001_00.png
+
+
+Usage (Discord with shiny): 
+"sticker_url": "https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Discord_hiRes_withShiny_withBorder/pokemon_icon_<mon_id_3>_<form_id_2>.png",
+
+Usage (Discord without shiny): 
+"sticker_url": "https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Discord_hiRes_noShiny_withBorder/pokemon_icon_<mon_id_3>_<form_id_2>.png",
+
+
+Thanks to: steady_lurkin#9031 Debaucus#1211
