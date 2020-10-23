@@ -1,4 +1,5 @@
 HiRes Pkm Icons - With or without shiny - Support for Discord or Telegram
+Based on: https://github.com/nileplumb/PkmnHomeIcons
 
 ---Telegram---
 
@@ -32,4 +33,4 @@ Usage (Discord without shiny):
 "sticker_url": "https://raw.githubusercontent.com/nepixl/hiRes_PkmIcons_TG-Discord/main/Discord_hiRes_noShiny_withBorder/pokemon_icon_<mon_id_3>_<form_id_2>.png",
 
 
-Thanks to: steady_lurkin#9031 Debaucus#1211 #pokealarm
+Thanks to: nileplumb steady_lurkin#9031 Debaucus#1211 #pokealarm
